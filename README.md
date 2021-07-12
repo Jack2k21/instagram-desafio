@@ -6,9 +6,8 @@
 
 - colocado margin top na logo, "profile pic" e "continue as".
 - Feito ajuste no meu código que não estava pegando a cor correta pois havia um espaço xD
-- adicionado outra div(container) para manter centralizado mesmo quando a tela começa a fica menor
+- adicionado outra div(container) para manter centralizado mesmo quando a tela começa a fica menor e tentar sempre manter o mesmo tamanho
 - ajustado font-size para 16px no @media (max-width: 650px)
 - adicionado links para download
-- alterado widht do wrapper para 70% na media normal
-- adicionado gap no @media(max-widht 1024) para não sobrepor as caixas/imagens
-- 
+- alterado width do wrapper para 70% na media normal
+- ajustado width e height do container para 100% no @media (max-width: 1024px) para deixar centralizado, sem formatação imagem ficavam sobrepostas quando começava a ficar menor o dispositivo
